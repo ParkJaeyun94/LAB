@@ -23,3 +23,4 @@
 
 ### 6. 수상내역
 - KISTI 주최 2020 연구데이터·AI 분석활용 경진대회 우수상(2등) 수상
+- https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=277&aid=0004806388
